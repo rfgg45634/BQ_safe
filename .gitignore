@@ -3,7 +3,7 @@ outputs/
 logs/
 
 # 测试用的URL列表 / 本地私有数据
-# *.txt
+*.txt
 
 # Python缓存
 __pycache__/
